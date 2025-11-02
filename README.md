@@ -20,7 +20,6 @@ Main function to implement huffman coding.
 
 calculate frequency of occurence.
 ### Step5:
-
 print the characters and its huffmancode.
 
  
@@ -28,7 +27,6 @@ print the characters and its huffmancode.
 # Name: Pavithra S
 # Regno: 212223230147
 
-```
 ```
 
 # Step 1: Get the input string
@@ -73,6 +71,7 @@ print("Character | Huffman Code")
 print("-------------------------")
 for char, code in huffman_codes.items():
     print(f"    {char}    |    {code}")
+
 
 
 ```
